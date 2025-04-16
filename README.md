@@ -1,2 +1,2 @@
 # mec_typing
-SCCmec typing in the further, mainly on mec complex
+SCCmec typing in the furture, mainly on mec complex
